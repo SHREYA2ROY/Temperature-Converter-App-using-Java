@@ -8,7 +8,7 @@
 # Features
      .Input display
      ."To Celsius" and "To Fahrenheit " Buttons 
-     on clicking of which will convert the entered temp.
+     on clicking of which will convert the entered temperature
      in the respective quantity.
 	 
 # Scripts
